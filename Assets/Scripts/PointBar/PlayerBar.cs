@@ -46,7 +46,7 @@ public class PlayerBar : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Collectable.scoreValue > currentPoints) {
+		if (scoreValue > currentPoints) {
 
 			fruitPoints.CurrentVal += 5;
 			currentPoints += 5;
