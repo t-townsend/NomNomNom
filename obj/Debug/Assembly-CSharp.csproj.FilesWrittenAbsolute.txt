@@ -1,0 +1,17 @@
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEditor.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tristatownsend/Documents/test1/Temp/bin/Debug/Mono.Cecil.Mdb.dll
