@@ -57,6 +57,7 @@
      <Compile Include="Assets\Scripts\PointBar\PlayerBar.cs" />
      <Compile Include="Assets\Scripts\PointBar\Stat.cs" />
      <Compile Include="Assets\Scripts\RandomSprite.cs" />
+     <Compile Include="Assets\Scripts\UI Screen\Managers\WindowManager.cs" />
      <Compile Include="Assets\Scripts\UI Screen\Windows\GameOverWindow.cs" />
      <Compile Include="Assets\Scripts\UI Screen\Windows\GenericWindow.cs" />
      <Compile Include="Assets\Scripts\UI Screen\Windows\StartWindow.cs" />

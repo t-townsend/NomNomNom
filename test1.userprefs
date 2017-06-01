@@ -1,13 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LookForward.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI Screen/Managers/WindowManager.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerController.cs" Line="12" Column="3" />
-      <File FileName="Assets/Scripts/CameraFollow.cs" Line="8" Column="4" />
-      <File FileName="Assets/Scripts/Collectable.cs" Line="18" Column="25" />
-      <File FileName="Assets/Scripts/RandomSprite.cs" Line="19" Column="3" />
-      <File FileName="Assets/Scripts/MoveForward.cs" Line="21" Column="64" />
-      <File FileName="Assets/Scripts/LookForward.cs" Line="25" Column="34" />
+      <File FileName="Assets/Scripts/UI Screen/Windows/GameOverWindow.cs" Line="69" Column="1" />
+      <File FileName="Assets/Scripts/UI Screen/Windows/GenericWindow.cs" Line="6" Column="38" />
+      <File FileName="Assets/Scripts/UI Screen/Windows/StartWindow.cs" Line="11" Column="20" />
+      <File FileName="Assets/Scripts/UI Screen/Managers/WindowManager.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

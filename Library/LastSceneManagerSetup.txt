@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/NNN_healthbar.unity
+- path: Assets/Scenes/point_bars.unity
   isLoaded: 1
   isActive: 1

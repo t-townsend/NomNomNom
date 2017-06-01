@@ -21,6 +21,7 @@ public class PlayerBar : MonoBehaviour {
 	private float myTimer = 0f;
 	private float maxTime = 180f;
 
+	private int scoreValue = 0;
 
 
 	private int currentPoints = 0;
@@ -37,13 +38,7 @@ public class PlayerBar : MonoBehaviour {
 
 	}
 
-	public void FixedUpdate(){
-		myTimer += Time.deltaTime;
-		timeImage.fillAmount = 1 - (maxTime / myTimer);
-	}
 
-
-	
 	// Update is called once per frame
 	void Update () {
 		if (scoreValue > currentPoints) {
@@ -54,6 +49,7 @@ public class PlayerBar : MonoBehaviour {
 			//call scoreUpdate() here?
 
 		}
-	
+		myTimer += Time.deltaTime;
+		timeImage.fillAmount = 1 - (maxTime / myTimer);
 	}
 }

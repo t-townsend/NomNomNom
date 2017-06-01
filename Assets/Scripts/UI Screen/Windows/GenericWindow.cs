@@ -1,9 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
 public class GenericWindow : MonoBehaviour {
+	public static WindowManager manager;
 
 	public GameObject firstSelected;
 
@@ -12,24 +12,24 @@ public class GenericWindow : MonoBehaviour {
 
 	}
 
-	public void OnFocus(){
+	public virtual void OnFocus(){
 		eventSystem.SetSelectedGameObject (firstSelected);
 	}
 
-	protected void Display (bool value){
+	protected virtual void Display (bool value){
 		gameObject.SetActive (value);
 	}
 
-	public void Open(){
+	public virtual void Open(){
 		Display (true);
 		OnFocus ();
 	}
 
-	public void Close(){
+	public virtual void Close(){
 		Display (false); 
 	}
 
-	protected void Awake(){
+	protected virtual void Awake(){
 		Close (); 
 	}
 		
